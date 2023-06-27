@@ -1,0 +1,36 @@
+.task-div {
+    border: 1px solid white;
+    border-radius: 15px;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: rgba(255,255,255,255);
+}
+
+.navigate {
+    display: inline-block;
+}
+
+.Task-App {
+    font-style: italic;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-variant:initial;
+    color:brown;
+    display: inline-block;
+}
+
+.Create-Task {
+    display: inline-block;
+    background-color: #0099ff;
+    padding: 15px;
+    border: none;
+    border-radius: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-variant: initial;
+    color: rgb(255, 255, 255);
+    position:absolute;
+    left: 1600px;
+    top:5px;
+    cursor: pointer;
+
+}
+
